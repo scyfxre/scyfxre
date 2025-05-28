@@ -2,7 +2,6 @@
 
 SWAGGA ON TOP
 
-[https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=SWAGGA%20HUB](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=SWAGGA%20HUB)
 <!--
 **scyfxre/scyfxre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
